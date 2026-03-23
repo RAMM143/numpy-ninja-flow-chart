@@ -1,66 +1,66 @@
 The Workflow link
-👏[[Link](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202583828&usg=AOvVaw3AbERSN4QduRhik0KJm9hy){.c0}]{.c2}
+👏[[Link](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226364255&usg=AOvVaw1rAXRW-LjLvKcSO9NRxnO6){.c2}]{.c4}
 
-[]{.c4}
+[]{.c1}
 
-### [Paragraph]{.c1} {#h.mpda4mgbgq73 .c3}
+### [Paragraph]{.c3} {#h.mpda4mgbgq73 .c8}
 
 [In the bustling marketplace, merchants displayed vibrant textiles,
 fragrant spices, and intricate ornaments. Travelers from distant lands
 marveled at the diverse culture, while local artisans showcased their
 craftsmanship. The air was filled with animated chatter, blending
 languages from across the world, creating a lively yet harmonious
-atmosphere.]{.c4}
+atmosphere.]{.c1}
 
 ------------------------------------------------------------------------
 
-[]{.c4}
+[]{.c1}
 
-### [Words & Meanings]{.c1} {#h.3aalkbh4jm0b .c3}
+### [Words & Meanings]{.c3} {#h.3aalkbh4jm0b .c8}
 
-1.  [[Bustling](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202584981&usg=AOvVaw1CCEPSv2ALgeTjoC_ituHB){.c0}]{.c2}[ --
+1.  [[Bustling](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226365305&usg=AOvVaw0FgvP0hv3dDOifPQhaP7RH){.c2}]{.c4}[ --
     full of lively activity.\
-    ]{.c4}
-2.  [[Marketplace](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202585233&usg=AOvVaw3XBFEODWtkCcY__WLAqPLz){.c0}]{.c2}[ --
+    ]{.c1}
+2.  [[Marketplace](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226365537&usg=AOvVaw1e2ngq8kYXQBMPsyA3O2kH){.c2}]{.c4}[ --
     a place where goods are bought and sold.\
-    ]{.c4}
-3.  [[Merchants](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202585449&usg=AOvVaw0UJlm6_OKKPqQi1PpmWMxv){.c0}]{.c2}[ --
+    ]{.c1}
+3.  [[Merchants](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226365733&usg=AOvVaw2M3T4oUwdTT4mZpcr7ehoB){.c2}]{.c4}[ --
     people who sell goods, especially in large quantities.\
-    ]{.c4}
-4.  [[Vibrant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202585652&usg=AOvVaw1IteN_JvqNN75fykIEJEyU){.c0}
-    ]{.c2}[-- full of life and energy.\
-    ]{.c4}
-5.  [[Textiles](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202585782&usg=AOvVaw1FCnO07yca4Ef9NX4uh-FB){.c0}]{.c2}[ --
+    ]{.c1}
+4.  [[Vibrant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226365978&usg=AOvVaw2oB2fMEHtaVyYYJXY7qUF5){.c2}
+    ]{.c4}[-- full of life and energy.\
+    ]{.c1}
+5.  [[Textiles](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226366180&usg=AOvVaw0eejgmZmRd1YMqJ3jst-fb){.c2}]{.c4}[ --
     types of cloth or woven fabric.\
-    ]{.c4}
-6.  [[Fragrant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202585962&usg=AOvVaw0rk8jOYUOwAZBK0RuFnSTc){.c0}]{.c2}[ --
+    ]{.c1}
+6.  [[Fragrant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226366430&usg=AOvVaw3qQF9KTUc-GO544E3TkAgB){.c2}]{.c4}[ --
     having a pleasant smell.\
-    ]{.c4}
-7.  [[Intricate](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202586145&usg=AOvVaw2jVQ9-7P-c0biZzcoPWxig){.c0}]{.c2}[ --
+    ]{.c1}
+7.  [[Intricate](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226366631&usg=AOvVaw0lqGJAL53OeEJIr6r5INmG){.c2}]{.c4}[ --
     very detailed or complex.\
-    ]{.c4}
-8.  [[Ornaments](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202586323&usg=AOvVaw37Ke3R34BEyexxbAojqrJ7){.c0}]{.c2}[ --
+    ]{.c1}
+8.  [[Ornaments](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226366822&usg=AOvVaw2BmaDUeJMdHyV791P5Bqun){.c2}]{.c4}[ --
     decorative objects used to beautify something.\
-    ]{.c4}
-9.  [[Travelers](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202586537&usg=AOvVaw3H75U--9zJ8A2cj5RYLaqu){.c0}]{.c2}[ --
+    ]{.c1}
+9.  [[Travelers](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226367085&usg=AOvVaw0OPfQs_h9Ha1MgdoufSTVC){.c2}]{.c4}[ --
     people who are journeying from one place to another.\
-    ]{.c4}
-10. [[Distant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202586684&usg=AOvVaw1EWRfKA94WVykIO4VxDr3F){.c0}]{.c2}[ --
+    ]{.c1}
+10. [[Distant](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226367341&usg=AOvVaw0RjzOpjMW7N9BNcyiyOivg){.c2}]{.c4}[ --
     far away in space or time.\
-    ]{.c4}
-11. [[Diverse](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202586850&usg=AOvVaw3yMWzAtQ09M07gV7eAzi8Q){.c0}]{.c2}[ --
+    ]{.c1}
+11. [[Diverse](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226367617&usg=AOvVaw2b4D7egxZGTQvm0nDeIi-8){.c2}]{.c4}[ --
     showing a great deal of variety.\
-    ]{.c4}
-12. [[Culture](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202587072&usg=AOvVaw26LSQ5MzEmSPlZorAVu3bj){.c0}]{.c2}[ --
+    ]{.c1}
+12. [[Culture](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226367865&usg=AOvVaw2eDCPG3Om6v_2Oe-WoN3TB){.c2}]{.c4}[ --
     the customs, arts, and social institutions of a group.\
-    ]{.c4}
-13. [[Artisans](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202587285&usg=AOvVaw0n730hdy8gvjUxJRq9qhOQ){.c0}]{.c2}[ --
+    ]{.c1}
+13. [[Artisans](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226368149&usg=AOvVaw19_M9fnXSa3hZwv5TAzNWK){.c2}]{.c4}[ --
     skilled craft workers who make things by hand.\
-    ]{.c4}
-14. [[Chatter](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202587566&usg=AOvVaw1yaGtMVe6HeJUOOfkzBCew){.c0}]{.c2}[ --
+    ]{.c1}
+14. [[Chatter](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226368385&usg=AOvVaw2sLc6h4aB2LmpKlb9RwuGn){.c2}]{.c4}[ --
     fast and continuous talk.\
-    ]{.c4}
-15. [[Harmonious](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774275202587714&usg=AOvVaw1ClKnTXyWwqjJ9fbFOVAAT){.c0}
-    ]{.c2}[-- forming a pleasing or consistent whole.]{.c4}
+    ]{.c1}
+15. [[Harmonious](https://www.google.com/url?q=http://www.google.com&sa=D&source=editors&ust=1774280226368647&usg=AOvVaw0dHGg6UL1B3Nw11jYUf4ci){.c2}
+    ]{.c4}[-- forming a pleasing or consistent whole.]{.c1}
 
-[]{.c4}
+[]{.c1}
